@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "971552431004",
+    "firebase_url": "https://translation-4351e.firebaseio.com",
+    "project_id": "translation-4351e",
+    "storage_bucket": "translation-4351e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971552431004:android:71ac9255b69b779b",
+        "android_client_info": {
+          "package_name": "com.translation.herzogmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971552431004-0v984srq16ibmithhruhpgjsq5s134nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.translation.herzogmedia",
+            "certificate_hash": "c94628e67bae5277d0fc24fbd0d31b6bedd487bd"
+          }
+        },
+        {
+          "client_id": "971552431004-b8pbj80gkrmu06qtpsmr78qpot85ioe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoflfTa3ZpHZnJltO-lLCM7eE2mTg7faw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971552431004-b8pbj80gkrmu06qtpsmr78qpot85ioe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971552431004:android:993a3ccfdbabd9cb",
+        "android_client_info": {
+          "package_name": "tutorial.wallpaper.melodic.wallpaperapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971552431004-dk48eb2lq1a3itp29on6b94629mreib6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tutorial.wallpaper.melodic.wallpaperapptutorial",
+            "certificate_hash": "62efefedf4981b08da74999538856e83a178740b"
+          }
+        },
+        {
+          "client_id": "971552431004-b8pbj80gkrmu06qtpsmr78qpot85ioe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoflfTa3ZpHZnJltO-lLCM7eE2mTg7faw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971552431004-b8pbj80gkrmu06qtpsmr78qpot85ioe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
